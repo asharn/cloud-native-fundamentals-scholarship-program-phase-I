@@ -20,3 +20,13 @@ This repo contains all the information related to Cloud Native Fundamentals Scho
 
 ![Day 2 1st](images/day-02-1.png)
 ![Day 2 2nd](images/day-02-2.png)
+
+## Day 3: July 27, 2021. #daily_scrum
+- My current Overall progress : 22%\
+  **Lesson 3. Architecture Consideration for Cloud-Native Applications** (Progress 50%)
+    - **Trade-offs for Monoliths and Microservices** 
+    - **Quizzes: Trade-offs for Monoliths and Microservices**
+
+
+![Day 3 1st](images/day-03-1.png)
+![Day 3 2nd](images/day-03-2.png)
